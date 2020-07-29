@@ -16,3 +16,4 @@ Following files are containing necessary code: bikeshare.py
 
 Following files are not uploded to the remote repo (by using .gitignore) because the file size is too big: chicago.csv washington.csv new_york_city.csv
 
+check my project submission-https://github.com/pintu544/Programming-for-data-science-with-python/blob/master/Git%20Commands%20Documentation%20(1)%20(1)%20(1)%20-%20Copy.pdf
